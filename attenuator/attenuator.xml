@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/Gero/ektocomms/RF course/attenuator/attenuator.kicad_sch</source>
+    <date>Thu Dec 28 17:51:17 2023</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>attenuator.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/switch/" tstamps="/0a76be8f-668a-4165-96ab-60e35cd849cd/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/switch1/" tstamps="/169b8f2b-0aa0-4759-8e65-ab1053e64003/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/switch2/" tstamps="/30973910-c2d7-403a-a6fe-635552904991/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/switch4/" tstamps="/61d8f2a6-6a17-441f-b2ba-c30aa48981ac/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/switch3/" tstamps="/15a63168-6316-4b6e-9e3e-064e6f34246e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/switch6/" tstamps="/74eabb80-bb77-491e-9d4f-26d9cec38089/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/switch5/" tstamps="/469618b5-4ae0-4f43-a0a4-d1f2a2276ddf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/switch7/" tstamps="/72d1cfef-bf3e-4611-8111-7deef4c8b320/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/switch8/" tstamps="/86f373bc-be34-49c2-8422-1f32b70d434f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/switch9/" tstamps="/21f83ffe-ea14-4f54-94c3-a5a52b29bfff/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>switch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C21">
+      <value>1P</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8713df1-3ae9-4c15-9983-9eecf1a7dc8a</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>193503c5-d411-4aed-ba41-e8e7d2757f79</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132289_EdgeMount</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff63d616-31b7-4549-9b93-462f43753054</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132289_EdgeMount</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d275c6d-b2af-46f3-8d96-c368d280de7a</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_02x07_Odd_Even</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x07_Odd_Even" description="Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5649cac7-b0ff-4574-b38f-64f75532364c</tstamps>
+    </comp>
+    <comp ref="R1_A1">
+      <value>68.1</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b2f2996-8046-44b1-b216-7bf054b0d0e9</tstamps>
+    </comp>
+    <comp ref="R1_B1">
+      <value>115</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e78291a6-4343-4c0e-aac3-cef9991e3ace</tstamps>
+    </comp>
+    <comp ref="R1_C1">
+      <value>221</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5af0e5a9-5d6f-4cc9-9109-6ee949c3de7c</tstamps>
+    </comp>
+    <comp ref="R1_D1">
+      <value>432</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c29e0a01-94e6-4844-9e6c-a32da58db471</tstamps>
+    </comp>
+    <comp ref="R1_E1">
+      <value>866</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c0bf6c4-9b4c-4662-aa41-64d35ef647b8</tstamps>
+    </comp>
+    <comp ref="R2_A1">
+      <value>68.1</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f3ed1c5-fe6e-46c9-bf74-f2aad0666dbe</tstamps>
+    </comp>
+    <comp ref="R2_B1">
+      <value>115</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad346938-f36a-4010-97f6-b86d1ae5d4be</tstamps>
+    </comp>
+    <comp ref="R2_C1">
+      <value>221</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f17583c-25be-418b-a987-52cd1dd64440</tstamps>
+    </comp>
+    <comp ref="R2_D1">
+      <value>432</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad776328-846a-415b-8f97-4e9d6fee2f66</tstamps>
+    </comp>
+    <comp ref="R2_E1">
+      <value>866</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>490c6116-ffbc-499a-a74c-9988ed533427</tstamps>
+    </comp>
+    <comp ref="Rs_A1">
+      <value>154</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c888e1b-75ae-42e0-ba03-0b502c2709e9</tstamps>
+    </comp>
+    <comp ref="Rs_B1">
+      <value>52.3</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c8a4411-0bb1-4c89-b8ff-8dab22870e59</tstamps>
+    </comp>
+    <comp ref="Rs_C1">
+      <value>23.7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00e7cb50-9971-4b60-a19b-034dc9017f37</tstamps>
+    </comp>
+    <comp ref="Rs_D1">
+      <value>11.5</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d49ae46-b593-444b-9e3b-4b5522368e2a</tstamps>
+    </comp>
+    <comp ref="Rs_E1">
+      <value>11.5</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5feef1a4-6243-4775-80a0-e6c0152dd201</tstamps>
+    </comp>
+    <comp ref="Rs_E2">
+      <value>11.5</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="attenuator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71141230-f044-4ab7-bfca-d5f58382442e</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch/" tstamps="/0a76be8f-668a-4165-96ab-60e35cd849cd/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch/" tstamps="/0a76be8f-668a-4165-96ab-60e35cd849cd/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch/" tstamps="/0a76be8f-668a-4165-96ab-60e35cd849cd/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch/" tstamps="/0a76be8f-668a-4165-96ab-60e35cd849cd/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch1"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch1/" tstamps="/169b8f2b-0aa0-4759-8e65-ab1053e64003/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch1"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch1/" tstamps="/169b8f2b-0aa0-4759-8e65-ab1053e64003/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch1"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch1/" tstamps="/169b8f2b-0aa0-4759-8e65-ab1053e64003/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch1"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch1/" tstamps="/169b8f2b-0aa0-4759-8e65-ab1053e64003/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch2"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch2/" tstamps="/30973910-c2d7-403a-a6fe-635552904991/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch2"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch2/" tstamps="/30973910-c2d7-403a-a6fe-635552904991/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch2"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch2/" tstamps="/30973910-c2d7-403a-a6fe-635552904991/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch2"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch2/" tstamps="/30973910-c2d7-403a-a6fe-635552904991/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch4"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch4/" tstamps="/61d8f2a6-6a17-441f-b2ba-c30aa48981ac/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch4"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch4/" tstamps="/61d8f2a6-6a17-441f-b2ba-c30aa48981ac/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch4"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch4/" tstamps="/61d8f2a6-6a17-441f-b2ba-c30aa48981ac/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch4"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch4/" tstamps="/61d8f2a6-6a17-441f-b2ba-c30aa48981ac/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch3"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch3/" tstamps="/15a63168-6316-4b6e-9e3e-064e6f34246e/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch3"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch3/" tstamps="/15a63168-6316-4b6e-9e3e-064e6f34246e/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch3"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch3/" tstamps="/15a63168-6316-4b6e-9e3e-064e6f34246e/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch3"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch3/" tstamps="/15a63168-6316-4b6e-9e3e-064e6f34246e/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch6"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch6/" tstamps="/74eabb80-bb77-491e-9d4f-26d9cec38089/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch6"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch6/" tstamps="/74eabb80-bb77-491e-9d4f-26d9cec38089/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch6"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch6/" tstamps="/74eabb80-bb77-491e-9d4f-26d9cec38089/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch6"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch6/" tstamps="/74eabb80-bb77-491e-9d4f-26d9cec38089/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch5"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch5/" tstamps="/469618b5-4ae0-4f43-a0a4-d1f2a2276ddf/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch5"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch5/" tstamps="/469618b5-4ae0-4f43-a0a4-d1f2a2276ddf/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch5"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch5/" tstamps="/469618b5-4ae0-4f43-a0a4-d1f2a2276ddf/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch5"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch5/" tstamps="/469618b5-4ae0-4f43-a0a4-d1f2a2276ddf/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch7"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch7/" tstamps="/72d1cfef-bf3e-4611-8111-7deef4c8b320/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch7"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch7/" tstamps="/72d1cfef-bf3e-4611-8111-7deef4c8b320/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch7"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch7/" tstamps="/72d1cfef-bf3e-4611-8111-7deef4c8b320/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch7"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch7/" tstamps="/72d1cfef-bf3e-4611-8111-7deef4c8b320/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch8"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch8/" tstamps="/86f373bc-be34-49c2-8422-1f32b70d434f/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch8"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch8/" tstamps="/86f373bc-be34-49c2-8422-1f32b70d434f/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch8"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch8/" tstamps="/86f373bc-be34-49c2-8422-1f32b70d434f/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch8"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch8/" tstamps="/86f373bc-be34-49c2-8422-1f32b70d434f/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch9"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch9/" tstamps="/21f83ffe-ea14-4f54-94c3-a5a52b29bfff/"/>
+      <tstamps>18e4d341-26ba-47a7-9db9-dfb71d2e7a61</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="switch9"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/switch9/" tstamps="/21f83ffe-ea14-4f54-94c3-a5a52b29bfff/"/>
+      <tstamps>f47b2f86-2c57-4b26-b815-09436f3043bb</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="switch9"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/switch9/" tstamps="/21f83ffe-ea14-4f54-94c3-a5a52b29bfff/"/>
+      <tstamps>9b15d719-da4e-461a-9007-f5124cdb97c8</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>4259-63</value>
+      <footprint>switch:SC-70-6_PSM</footprint>
+      <datasheet>4259-63</datasheet>
+      <libsource lib="rf_switch" part="4259-63" description=""/>
+      <property name="Sheetname" value="switch9"/>
+      <property name="Sheetfile" value="switch.kicad_sch"/>
+      <property name="ki_keywords" value="4259-63"/>
+      <sheetpath names="/switch9/" tstamps="/21f83ffe-ea14-4f54-94c3-a5a52b29bfff/"/>
+      <tstamps>35f284cb-2410-4921-80fa-1ebd277f25a7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x07_Odd_Even">
+      <description>Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x07_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rf_switch" part="4259-63">
+      <docs>4259-63</docs>
+      <footprints>
+        <fp>SC-70-6_PSM</fp>
+        <fp>SC-70-6_PSM-M</fp>
+        <fp>SC-70-6_PSM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">4259-63</field>
+        <field name="Footprint">SC-70-6_PSM</field>
+        <field name="Datasheet">4259-63</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RF1" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_out"/>
+        <pin num="3" name="RF2" type="bidirectional"/>
+        <pin num="4" name="CTRL" type="unspecified"/>
+        <pin num="5" name="RFC" type="unspecified"/>
+        <pin num="6" name="*CTRL/VDD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/home/Gero/kicad-symbols/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/home/Gero/kicad-symbols/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/home/Gero/kicad-symbols/Device.kicad_sym</uri>
+    </library>
+    <library logical="rf_switch">
+      <uri>/home/Gero/ektocomms/RF course/attenuator/KiCADv6/2023-12-28_18-34-10.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V">
+      <node ref="J11" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J11" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U10" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U7" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U8" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+      <node ref="U9" pin="6" pinfunction="*CTRL/VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/CTRL_1">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/CTRL_2">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/CTRL_3">
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/CTRL_4">
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/CTRL_5">
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/CTRL_6">
+      <node ref="J11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/CTRL_7">
+      <node ref="J11" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/CTRL_8">
+      <node ref="J11" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/CTRL_9">
+      <node ref="J11" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/CTRL_10">
+      <node ref="J11" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/switch/RF1">
+      <node ref="R1_A1" pin="1" pintype="passive"/>
+      <node ref="Rs_A1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/switch/RF2">
+      <node ref="U1" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/switch/RFC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/switch1/RF2">
+      <node ref="R2_A1" pin="1" pintype="passive"/>
+      <node ref="Rs_A1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/switch1/RFC">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="RFC" pintype="unspecified"/>
+      <node ref="U3" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/switch2/RF1">
+      <node ref="R1_B1" pin="1" pintype="passive"/>
+      <node ref="Rs_B1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/switch2/RF2">
+      <node ref="U3" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/switch3/RF1">
+      <node ref="U5" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/switch3/RF2">
+      <node ref="R2_C1" pin="1" pintype="passive"/>
+      <node ref="Rs_C1" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/switch3/RFC">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="RFC" pintype="unspecified"/>
+      <node ref="U5" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="22" name="/switch4/RF2">
+      <node ref="R2_B1" pin="1" pintype="passive"/>
+      <node ref="Rs_B1" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/switch5/RF1">
+      <node ref="R1_C1" pin="1" pintype="passive"/>
+      <node ref="Rs_C1" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/switch5/RFC">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="RFC" pintype="unspecified"/>
+      <node ref="U7" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="25" name="/switch6/RF1">
+      <node ref="U6" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+      <node ref="U8" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/switch6/RF2">
+      <node ref="R2_D1" pin="1" pintype="passive"/>
+      <node ref="Rs_D1" pin="2" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/switch7/RF1">
+      <node ref="R1_D1" pin="1" pintype="passive"/>
+      <node ref="Rs_D1" pin="1" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/switch7/RFC">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="RFC" pintype="unspecified"/>
+      <node ref="U9" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="29" name="/switch8/RF1">
+      <node ref="R1_E1" pin="1" pintype="passive"/>
+      <node ref="Rs_E1" pin="1" pintype="passive"/>
+      <node ref="Rs_E2" pin="1" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/switch8/RF2">
+      <node ref="U10" pin="1" pinfunction="RF1" pintype="bidirectional"/>
+      <node ref="U9" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/switch9/RF2">
+      <node ref="R2_E1" pin="1" pintype="passive"/>
+      <node ref="Rs_E1" pin="2" pintype="passive"/>
+      <node ref="Rs_E2" pin="2" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="RF2" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/switch9/RFC">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="RFC" pintype="unspecified"/>
+    </net>
+    <net code="33" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J11" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J11" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="R1_A1" pin="2" pintype="passive"/>
+      <node ref="R1_B1" pin="2" pintype="passive"/>
+      <node ref="R1_C1" pin="2" pintype="passive"/>
+      <node ref="R1_D1" pin="2" pintype="passive"/>
+      <node ref="R1_E1" pin="2" pintype="passive"/>
+      <node ref="R2_A1" pin="2" pintype="passive"/>
+      <node ref="R2_B1" pin="2" pintype="passive"/>
+      <node ref="R2_C1" pin="2" pintype="passive"/>
+      <node ref="R2_D1" pin="2" pintype="passive"/>
+      <node ref="R2_E1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U10" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_out"/>
+      <node ref="U9" pin="2" pinfunction="GND" pintype="power_out"/>
+    </net>
+    <net code="34" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(C15-Pad2)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J1-In)">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(J2-In)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(U1-CTRL)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="47" name="Net-(U2-CTRL)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="48" name="Net-(U3-CTRL)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="49" name="Net-(U4-CTRL)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="50" name="Net-(U5-CTRL)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="51" name="Net-(U6-CTRL)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="52" name="Net-(U7-CTRL)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="53" name="Net-(U8-CTRL)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="54" name="Net-(U9-CTRL)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+    <net code="55" name="Net-(U10-CTRL)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="CTRL" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>
