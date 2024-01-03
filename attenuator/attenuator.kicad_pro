@@ -111,21 +111,21 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.25,
-        "min_connection": 0.25,
-        "min_copper_edge_clearance": 0.5,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_clearance": 0.15239999999999998,
+        "min_connection": 0.15239999999999998,
+        "min_copper_edge_clearance": 0.254,
+        "min_hole_clearance": 0.127,
+        "min_hole_to_hole": 0.127,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7999999999999999,
-        "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 1.0,
-        "min_track_width": 0.25,
-        "min_via_annular_width": 0.19999999999999998,
-        "min_via_diameter": 1.2,
+        "min_text_height": 0.5,
+        "min_text_thickness": 0.127,
+        "min_through_hole_diameter": 0.254,
+        "min_track_width": 0.15239999999999998,
+        "min_via_annular_width": 0.127,
+        "min_via_diameter": 0.508,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.0,
@@ -174,7 +174,8 @@
       "track_widths": [
         0.0,
         0.34,
-        1.37
+        0.54,
+        0.822887
       ],
       "via_dimensions": [
         {
@@ -182,8 +183,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 1.4,
-          "drill": 1.0
+          "diameter": 0.508,
+          "drill": 0.254
         }
       ],
       "zones_allow_external_fillets": false
@@ -517,44 +518,24 @@
       ""
     ],
     [
-      "0a76be8f-668a-4165-96ab-60e35cd849cd",
-      "switch"
+      "b0edad66-e740-4e6d-bc3a-542edbe7ee2e",
+      "attenuator_block1"
     ],
     [
-      "169b8f2b-0aa0-4759-8e65-ab1053e64003",
-      "switch1"
+      "c52d33fc-f0f4-4621-a7b6-5f1c2bd6a0f4",
+      "attenuator_block2"
     ],
     [
-      "30973910-c2d7-403a-a6fe-635552904991",
-      "switch2"
+      "3da84243-0db9-493d-afe7-bbdf34a70e6f",
+      "attenuator_block3"
     ],
     [
-      "61d8f2a6-6a17-441f-b2ba-c30aa48981ac",
-      "switch4"
+      "1814b441-73d1-4a6f-9de4-def20b8dedaa",
+      "attenuator_block_v2"
     ],
     [
-      "15a63168-6316-4b6e-9e3e-064e6f34246e",
-      "switch3"
-    ],
-    [
-      "74eabb80-bb77-491e-9d4f-26d9cec38089",
-      "switch6"
-    ],
-    [
-      "469618b5-4ae0-4f43-a0a4-d1f2a2276ddf",
-      "switch5"
-    ],
-    [
-      "72d1cfef-bf3e-4611-8111-7deef4c8b320",
-      "switch7"
-    ],
-    [
-      "86f373bc-be34-49c2-8422-1f32b70d434f",
-      "switch8"
-    ],
-    [
-      "21f83ffe-ea14-4f54-94c3-a5a52b29bfff",
-      "switch9"
+      "d8a81011-8742-4aef-8bd1-0388c515e538",
+      "attenuator_block"
     ]
   ],
   "text_variables": {}

@@ -398,13 +398,13 @@
   (symbol (lib_id "Device:C") (at 234.95 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0268939c-7954-46ea-9b5c-2d1b76a978e1)
-    (property "Reference" "C21" (at 228.6 87.63 0)
+    (property "Reference" "C17" (at 228.6 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.5p" (at 228.6 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 235.9152 91.44 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 235.9152 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 87.63 0)
@@ -415,7 +415,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "C21") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -424,13 +424,13 @@
   (symbol (lib_id "Device:C") (at 57.15 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0bfcb1c4-59ee-4058-847f-bdc802ed7d9d)
-    (property "Reference" "C19" (at 50.8 87.63 0)
+    (property "Reference" "C15" (at 50.8 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.5p" (at 50.8 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 58.1152 91.44 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 58.1152 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 87.63 0)
@@ -441,7 +441,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "C19") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -456,7 +456,7 @@
     (property "Value" "${Rs}" (at 147.32 74.93 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 147.32 80.518 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 147.32 80.518 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 147.32 78.74 0)
@@ -476,7 +476,7 @@
   (symbol (lib_id "power:GND") (at 234.95 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41d0a536-fd98-42e2-932f-74b66d62e294)
-    (property "Reference" "#PWR034" (at 234.95 110.49 0)
+    (property "Reference" "#PWR028" (at 234.95 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 234.95 109.22 0)
@@ -492,7 +492,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -507,7 +507,7 @@
     (property "Value" "${R2}" (at 160.02 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 155.702 88.9 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 155.702 88.9 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 157.48 88.9 0)
@@ -533,7 +533,7 @@
     (property "Value" "${Rs}" (at 147.32 87.63 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 147.32 84.328 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 147.32 84.328 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 147.32 82.55 0)
@@ -553,7 +553,7 @@
   (symbol (lib_id "power:GND") (at 171.45 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a0df6ed-109a-4b6b-8b91-ecc9158b5aca)
-    (property "Reference" "#PWR033" (at 171.45 99.06 0)
+    (property "Reference" "#PWR027" (at 171.45 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 171.45 97.79 0)
@@ -569,7 +569,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR027") (unit 1)
         )
       )
     )
@@ -578,7 +578,7 @@
   (symbol (lib_id "power:GND") (at 119.38 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 965f989f-d862-4026-9673-c817be360f2d)
-    (property "Reference" "#PWR030" (at 119.38 99.06 0)
+    (property "Reference" "#PWR024" (at 119.38 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 119.38 97.79 0)
@@ -594,7 +594,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -603,7 +603,7 @@
   (symbol (lib_id "rf_switch:4259-63") (at 118.11 78.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a0a2367a-390e-44e5-9c18-97d4255393a5)
-    (property "Reference" "U9" (at 92.71 63.5 0)
+    (property "Reference" "U7" (at 92.71 63.5 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "4259-63" (at 92.71 66.04 0)
@@ -624,7 +624,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "U9") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -633,7 +633,7 @@
   (symbol (lib_id "power:GND") (at 57.15 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8167214-f911-43ac-935a-db08445ce122)
-    (property "Reference" "#PWR029" (at 57.15 110.49 0)
+    (property "Reference" "#PWR023" (at 57.15 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 57.15 109.22 0)
@@ -649,7 +649,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -658,13 +658,13 @@
   (symbol (lib_id "Device:C") (at 234.95 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c3900e3f-cf62-4dea-a917-6312386b9d8b)
-    (property "Reference" "C22" (at 228.6 97.79 0)
+    (property "Reference" "C18" (at 228.6 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.5p" (at 228.6 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 235.9152 101.6 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 235.9152 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 97.79 0)
@@ -675,7 +675,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "C22") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -684,7 +684,7 @@
   (symbol (lib_id "power:GND") (at 137.16 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c39d9e96-ab2b-4e13-bc28-510faa637560)
-    (property "Reference" "#PWR031" (at 137.16 101.6 0)
+    (property "Reference" "#PWR025" (at 137.16 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 137.16 100.33 0)
@@ -700,7 +700,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -709,7 +709,7 @@
   (symbol (lib_id "rf_switch:4259-63") (at 172.72 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9106134-398a-4bee-9bcb-e6c627032304)
-    (property "Reference" "U10" (at 198.12 88.9 0)
+    (property "Reference" "U8" (at 198.12 88.9 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "4259-63" (at 198.12 86.36 0)
@@ -730,7 +730,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "U10") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -745,7 +745,7 @@
     (property "Value" "${R1}" (at 138.43 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 135.382 88.9 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 135.382 88.9 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 88.9 0)
@@ -765,13 +765,13 @@
   (symbol (lib_id "Device:R") (at 223.52 87.63 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4ddea94-0cae-4156-9b22-38509f9f69d5)
-    (property "Reference" "R10" (at 220.98 88.9 0)
+    (property "Reference" "R8" (at 220.98 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1k" (at 220.98 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 225.298 87.63 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 225.298 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 223.52 87.63 0)
@@ -782,7 +782,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "R10") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -791,7 +791,7 @@
   (symbol (lib_id "power:GND") (at 157.48 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid db913578-cb8f-4184-8af4-56daef645ee1)
-    (property "Reference" "#PWR032" (at 157.48 101.6 0)
+    (property "Reference" "#PWR026" (at 157.48 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 100.33 0)
@@ -807,7 +807,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR026") (unit 1)
         )
       )
     )
@@ -816,13 +816,13 @@
   (symbol (lib_id "Device:R") (at 67.31 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f134f690-6d65-43d1-8d39-1738271ddc78)
-    (property "Reference" "R9" (at 69.85 63.5 0)
+    (property "Reference" "R7" (at 69.85 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1k" (at 69.85 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 65.532 64.77 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 65.532 64.77 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 64.77 0)
@@ -833,7 +833,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "R9") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -842,13 +842,13 @@
   (symbol (lib_id "Device:C") (at 57.15 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fdd33bb4-e77c-4940-8c01-8d6cb4a7791b)
-    (property "Reference" "C20" (at 50.8 97.79 0)
+    (property "Reference" "C16" (at 50.8 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.5p" (at 50.8 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 58.1152 101.6 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 58.1152 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 97.79 0)
@@ -859,7 +859,7 @@
     (instances
       (project "attenuator"
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/1814b441-73d1-4a6f-9de4-def20b8dedaa"
-          (reference "C20") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
