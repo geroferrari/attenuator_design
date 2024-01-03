@@ -295,7 +295,7 @@
   (symbol (lib_id "Device:C") (at 114.3 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 18e4d341-26ba-47a7-9db9-dfb71d2e7a61)
-    (property "Reference" "C1" (at 107.95 100.33 0)
+    (property "Reference" "C5" (at 107.95 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.5p" (at 107.95 102.87 0)
@@ -311,12 +311,6 @@
     (pin "1" (uuid c4fd6ce4-7932-4228-b7c5-5132a9c1f062))
     (instances
       (project "attenuator"
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/0a76be8f-668a-4165-96ab-60e35cd849cd"
-          (reference "C1") (unit 1)
-        )
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/169b8f2b-0aa0-4759-8e65-ab1053e64003"
-          (reference "C3") (unit 1)
-        )
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/30973910-c2d7-403a-a6fe-635552904991"
           (reference "C5") (unit 1)
         )
@@ -348,7 +342,7 @@
   (symbol (lib_id "rf_switch:4259-63") (at 175.26 91.44 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35f284cb-2410-4921-80fa-1ebd277f25a7)
-    (property "Reference" "U1" (at 149.86 76.2 0)
+    (property "Reference" "U3" (at 149.86 76.2 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "4259-63" (at 149.86 78.74 0)
@@ -368,12 +362,6 @@
     (pin "5" (uuid 834ed4be-dc30-4897-b273-1627b3ad8a17))
     (instances
       (project "attenuator"
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/0a76be8f-668a-4165-96ab-60e35cd849cd"
-          (reference "U1") (unit 1)
-        )
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/169b8f2b-0aa0-4759-8e65-ab1053e64003"
-          (reference "U2") (unit 1)
-        )
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/30973910-c2d7-403a-a6fe-635552904991"
           (reference "U3") (unit 1)
         )
@@ -405,7 +393,7 @@
   (symbol (lib_id "Device:R") (at 124.46 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9b15d719-da4e-461a-9007-f5124cdb97c8)
-    (property "Reference" "R1" (at 127 76.2 0)
+    (property "Reference" "R3" (at 127 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1k" (at 127 78.74 0)
@@ -421,12 +409,6 @@
     (pin "2" (uuid b0d47552-b889-47da-a109-34349314b037))
     (instances
       (project "attenuator"
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/0a76be8f-668a-4165-96ab-60e35cd849cd"
-          (reference "R1") (unit 1)
-        )
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/169b8f2b-0aa0-4759-8e65-ab1053e64003"
-          (reference "R2") (unit 1)
-        )
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/30973910-c2d7-403a-a6fe-635552904991"
           (reference "R3") (unit 1)
         )
@@ -458,7 +440,7 @@
   (symbol (lib_id "power:GND") (at 114.3 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bac44be9-57b5-4941-bf1b-1449f74d5aab)
-    (property "Reference" "#PWR011" (at 114.3 123.19 0)
+    (property "Reference" "#PWR015" (at 114.3 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 114.3 121.92 0)
@@ -473,12 +455,6 @@
     (pin "1" (uuid 27a64313-bf09-4469-9d98-a02099d39198))
     (instances
       (project "attenuator"
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/0a76be8f-668a-4165-96ab-60e35cd849cd"
-          (reference "#PWR011") (unit 1)
-        )
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/169b8f2b-0aa0-4759-8e65-ab1053e64003"
-          (reference "#PWR013") (unit 1)
-        )
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/30973910-c2d7-403a-a6fe-635552904991"
           (reference "#PWR015") (unit 1)
         )
@@ -510,7 +486,7 @@
   (symbol (lib_id "power:GND") (at 176.53 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0720999-d111-4998-8182-546fe8c56e37)
-    (property "Reference" "#PWR012" (at 176.53 111.76 0)
+    (property "Reference" "#PWR016" (at 176.53 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 176.53 110.49 0)
@@ -525,12 +501,6 @@
     (pin "1" (uuid cd6ff63e-44ac-455a-9552-d4bfbf7ea54f))
     (instances
       (project "attenuator"
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/0a76be8f-668a-4165-96ab-60e35cd849cd"
-          (reference "#PWR012") (unit 1)
-        )
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/169b8f2b-0aa0-4759-8e65-ab1053e64003"
-          (reference "#PWR014") (unit 1)
-        )
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/30973910-c2d7-403a-a6fe-635552904991"
           (reference "#PWR016") (unit 1)
         )
@@ -562,7 +532,7 @@
   (symbol (lib_id "Device:C") (at 114.3 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f47b2f86-2c57-4b26-b815-09436f3043bb)
-    (property "Reference" "C2" (at 107.95 110.49 0)
+    (property "Reference" "C6" (at 107.95 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.5p" (at 107.95 113.03 0)
@@ -578,12 +548,6 @@
     (pin "1" (uuid 1c0237d6-6068-481d-ab86-da58d50b0372))
     (instances
       (project "attenuator"
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/0a76be8f-668a-4165-96ab-60e35cd849cd"
-          (reference "C2") (unit 1)
-        )
-        (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/169b8f2b-0aa0-4759-8e65-ab1053e64003"
-          (reference "C4") (unit 1)
-        )
         (path "/3b0f5433-415e-45c9-9c4a-85a692e565e5/30973910-c2d7-403a-a6fe-635552904991"
           (reference "C6") (unit 1)
         )
