@@ -64,8 +64,8 @@
       39,
       40
     ],
-    "visible_layers": "fffdfdf_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ff9cfff_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "attenuator.kicad_prl",

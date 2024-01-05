@@ -1,6 +1,9 @@
-Diseño de  un atenuador variable de hasta 30db en pasos de 1db.
-Frecuencia maxima: 3GHz
-Potencia maxima de entrada: 18 dbm
+Design a variable attenuator  from 0db to 30db  (steps of 1db) 
+
+Max Frequency: 3GHz 
+
+Max input Power: 0 dbm
+
 Zin = Zout = 50 ohms.
 
 Herramientas:
