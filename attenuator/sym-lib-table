@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "rf_switch")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/2023-12-28_18-34-10.kicad_sym")(options "")(descr ""))
+  (lib (name "c_switch")(type "KiCad")(uri "${KIPRJMOD}/GCQ1555C1HR85WB01D.kicad_sym")(options "")(descr ""))
+  (lib (name "l_switch")(type "KiCad")(uri "${KIPRJMOD}/LQG15HN2N0S02D.kicad_sym")(options "")(descr ""))
 )
