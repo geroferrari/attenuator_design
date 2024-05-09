@@ -6,8 +6,11 @@ Max input Power: 0 dbm
 
 Zin = Zout = 50 ohms.
 
-Herramientas:
+Tools:
  - Jupyter notebooks
  - Qucs
  - Kicad
  
+TO DO:
+- finish design
+- Assemble the pcb 
